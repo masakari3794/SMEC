@@ -1,4 +1,4 @@
-## 労働者に関する規則
+## 労働者との契約に関する規則
 
 - 解雇予告（[参考文献](https://xn--alg-li9dki71toh.com/roumu/retirement/notice/)）
   - 解雇する旨を労働者本人に予告する手続き
