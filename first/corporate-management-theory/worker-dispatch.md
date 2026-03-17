@@ -19,6 +19,6 @@
   - ただし、派遣先の講ずべき措置がある
     - 派遣労働者の新たな就業機会の確保を図ること
     - これができない時には派遣元に生じる損害の賠償を行わなければならない
-- 派遣禁止業務（[参考文献](https://www.adecco.com/ja-jp/client/useful/column/law/prohibited-sectorshttps://www.adecco.com/ja-jp/client/useful/column/law/prohibited-sectors)）
+- 派遣禁止業務（[参考文献](https://www.adecco.com/ja-jp/client/useful/column/law/prohibited-sectors)）
   - 港湾運送業務、建設業務、警備業務、医療関連業務、士業
-  -
+  - 派遣先は派遣労働者を派遣禁止業務の規定に該当する業務に従事させた場合は、派遣先から派遣労働者に対し、その時点における当該派遣労働者に係る労働条件と同一の労働条件を内容とする労働契約の申し込みをしたとされる
